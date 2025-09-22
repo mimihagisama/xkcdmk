@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @xkcdmk
-- 👀 I’m interested in Data Science, Data Analysis and Data Visualization
+- 👀 I’m interested in Data Science, Data Analysis and Data Engineering
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on creating databases and dashboards
-- 📫 How to reach me jkemmer15@gmail.com
+- 📫 How to reach me tonyekemmer@gmail.com
 
 <!---
 xkcdmk/xkcdmk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
